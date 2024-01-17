@@ -3,5 +3,4 @@
 <p>
     <img width="100%" src="https://github-stats.liuli.lol/api/top-langs/?username=dithiane&layout=compact" alt=""/> 
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dithiane" alt=""/>
-    <img width="100%" src="https://s01.flagcounter.com/map/kjRJ/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Free counters!">
-</p>
+    <a href="https://info.flagcounter.com/k8Fa"><img src="https://s01.flagcounter.com/map/k8Fa/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></p>
